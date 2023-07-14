@@ -46,8 +46,8 @@ class Game
             end
         end
 
-        puts "#{@@completely_right_guess} digits are in right place!"
-        puts "#{half_right_guess} digits are in code, but in wrong place!"
+        puts "#{@@completely_right_guess} digits in the right place!"
+        puts "#{half_right_guess} digits in code, but in the wrong place!"
         puts ""
     end
 
